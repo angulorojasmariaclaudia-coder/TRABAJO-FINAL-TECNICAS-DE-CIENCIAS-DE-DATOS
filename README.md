@@ -6,7 +6,7 @@ Clasificación de los niveles de riesgos de contaminación atmosférica en las C
 
 **Autoras:** 
 
-* Patricia Contrera 
+* Patricia Contreras 
 * María Claudia Angulo
 
 
