@@ -16,7 +16,7 @@ Técnicas para la Ciencia de Datos
 
 **Máster:** 
 
-Máster en Ciencia de Datos y Aprendizaje Automático – Universidad de La Rioja (UNIR)
+Máster en Ciencia de Datos y Aprendizaje Automático – Universidad de La Rioja
 
 
 **Descripción:**
