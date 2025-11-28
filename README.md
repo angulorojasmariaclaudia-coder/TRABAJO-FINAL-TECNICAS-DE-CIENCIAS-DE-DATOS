@@ -5,7 +5,7 @@ Técnica de Clasificación No Supervisada de las Comunidades Autónomas de Espa�
 
 **Autoras:** 
 
-* Patricia Contreras 
+* Patricia Contreras Parra
 * María Claudia Angulo
 
 
