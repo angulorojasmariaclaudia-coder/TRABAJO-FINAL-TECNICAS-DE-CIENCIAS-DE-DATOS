@@ -1,7 +1,7 @@
 # Trabajo Final de Técnicas para la Ciencia de Datos
 **Proyecto:** 
 
-TÉCNICA DE CLASIFICACIÓN NO SUPERVISADA DE LAS COMUNIDADES AUTONOMAS DE ESPAÑA SEGÚN LOS NIVELES DE RIESGOS DE CONTAMINACIÓN ATMOSFÉRICA
+Técnica de Clasificación No Supervisada de las Comunidades Autónomas de España según los Niveles de Riesgos de Contaminación Atmosférica 
 
 **Autoras:** 
 
